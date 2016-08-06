@@ -1,0 +1,74 @@
+_repo: Chinese-LiteratureComprising-the-Analects-of-Confucius-the-Sayings-of-Mencius-the-Shi-King-th__10056
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Davis, John Francis, Sir
+    alias: Davis, Sir John Francis
+    birthdate: 1795
+    deathdate: 1890
+    gutenberg_agent_id: '7976'
+    url: http://www.gutenberg.org/2009/agents/7976
+    wikipedia: http://en.wikipedia.org/wiki/John_Francis_Davis
+  - agent_name: Jennings, William
+    birthdate: 1847
+    deathdate: 1927
+    gutenberg_agent_id: '7975'
+    url: http://www.gutenberg.org/2009/agents/7975
+  - agent_name: Legge, James
+    alias: Li, Ya-ko
+    birthdate: 1815
+    deathdate: 1897
+    gutenberg_agent_id: '1114'
+    url: http://www.gutenberg.org/2009/agents/1114
+    wikipedia: http://en.wikipedia.org/wiki/James_Legge
+creator:
+  authors:
+  - agent_name: Mencius
+    aliases:
+    - 孟子
+    - Mengzi
+    birthdate: -385
+    deathdate: -289
+    gutenberg_agent_id: '7977'
+    url: http://www.gutenberg.org/2009/agents/7977
+    wikipedia: http://en.wikipedia.org/wiki/Mencius
+  - agent_name: Faxian
+    aliases:
+    - Fa-hsien
+    - 法顯
+    gutenberg_agent_id: '824'
+    url: http://www.gutenberg.org/2009/agents/824
+    wikipedia: http://en.wikipedia.org/wiki/Faxian
+  - agent_name: Confucius
+    alias: 孔子
+    birthdate: -551
+    deathdate: -479
+    gutenberg_agent_id: '1180'
+    url: http://www.gutenberg.org/2009/agents/1180
+    wikipedia: http://en.wikipedia.org/wiki/Confucius
+  editor:
+    agent_name: Wilson, Epiphanius
+    birthdate: 1845
+    deathdate: 1916
+    gutenberg_agent_id: '4842'
+    url: http://www.gutenberg.org/2009/agents/4842
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10056'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese literature'
+- !lcsh 'China -- Literary collections'
+- !lcsh 'Chinese literature -- Translations into English'
+- !lcc 'PJ'
+- GITenberg
+title: 'Chinese Literature
+
+  Comprising the Analects of Confucius, the Sayings of Mencius, the Shi-King, the
+  Travels of Fâ-Hien, and the Sorrows of Han'
+url: http://www.gutenberg.org/ebooks/10056
