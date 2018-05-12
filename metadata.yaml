@@ -1,5 +1,5 @@
 _repo: Chinese-LiteratureComprising-the-Analects-of-Confucius-the-Sayings-of-Mencius-the-Shi-King-th__10056
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translators:
   - agent_name: Davis, John Francis, Sir
@@ -21,6 +21,9 @@ contributor:
     gutenberg_agent_id: '1114'
     url: http://www.gutenberg.org/2009/agents/1114
     wikipedia: http://en.wikipedia.org/wiki/James_Legge
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Mencius
@@ -53,6 +56,8 @@ creator:
     gutenberg_agent_id: '4842'
     url: http://www.gutenberg.org/2009/agents/4842
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10056#Chinese-LiteratureComprising-the-Analects-of-Confucius-the-Sayings-of-Mencius-the-Shi-King-th_
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
